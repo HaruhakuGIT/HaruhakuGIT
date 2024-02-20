@@ -3,7 +3,7 @@
 <h4>I'am Artem a Backend Developer.<br>I Spend most of my time coding outstanding projects.</h4>
 
 <div align="center">
-  <img width="1200" src="https://github.com/HaruhakuGIT/HaruhakuGIT/assets/firefly" />
+  <img width="1200" src="https://github.com/HaruhakuGIT/HaruhakuGIT/assets/66869683/ac2f42f0-0f6a-4d7d-b33e-d0f8c836682a" />
 </div>
 
 ### What I currently Do
