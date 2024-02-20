@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![HaruhakuGIT's github stats](https://github-readme-stats.vercel.app/api?username=HaruhakuGIT&show_icons=true&theme=midnight-purple&size_weight=0.5&count_weight=0.5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaruhakuGIT&theme=midnight-purple&size_weight=0.5&count_weight=0.5)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaruhakuGIT&show_icons=true&theme=midnight-purple" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaruhakuGIT&theme=midnight-purple&layout=compact&langs_count=5" height="150">
+</div>
