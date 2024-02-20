@@ -3,10 +3,8 @@
 <h4>I'am Artem a Backend Developer.<br>I Spend most of my time coding outstanding projects.</h4>
 
 <div align="center">
-  https://github.com/HaruhakuGIT/HaruhakuGIT/assets/66869683/7411a1c3-a0e4-4d04-b742-400da53040ab
+  <img width="1200" src="https://github.com/HaruhakuGIT/HaruhakuGIT/assets/66869683/a47cd35e-ca98-4967-9363-fe28dc0f8384" />
 </div>
-
-![firefly.webm](https://github.com/HaruhakuGIT/HaruhakuGIT/assets/66869683/a32fae6b-1f4f-4ccf-8b3d-0c415200c7fb)
 
 ### What I currently Do
 
