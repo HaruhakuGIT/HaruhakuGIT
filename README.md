@@ -2,8 +2,14 @@
 
 <h4>I'am Artem a Backend Developer.<br>I Spend most of my time coding outstanding projects.</h4>
 
+<style>
+  .banner {
+    object-fit: cover;
+  }
+</style>
+
 <div align="center">
-  <img width="1200" height="250" src="https://github.com/HaruhakuGIT/HaruhakuGIT/assets/66869683/a47cd35e-ca98-4967-9363-fe28dc0f8384" />
+  <img id="banner" width="1200" height="200" src="https://github.com/HaruhakuGIT/HaruhakuGIT/assets/66869683/a47cd35e-ca98-4967-9363-fe28dc0f8384" />
 </div>
 
 ### What I currently Do
