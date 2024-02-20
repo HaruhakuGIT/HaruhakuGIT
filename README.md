@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![HaruhakuGIT's github stats](https://github-readme-stats.vercel.app/api?username=HaruhakuGIT&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaruhakuGIT&theme=midnight-purple)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaruhakuGIT&theme=midnight-purple)
