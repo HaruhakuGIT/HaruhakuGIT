@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [MythicalWorld](https://mythicalworld.su)
 - 🌱 I’m currently learning PHP, Java, Kotlin
-- 💻 Most used line of code `"edit ."` (Alias for `"code ."`)
+- 💻 Most used command  `"edit ."` (Alias for `"code ."`)
 - 📫 How to reach me: [@HaruhakuGIT](https://discord.com/users/856967549635002388)
 - 😄 Pronouns: He/Him
 
