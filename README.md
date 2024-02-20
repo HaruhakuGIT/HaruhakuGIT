@@ -2,6 +2,10 @@
 
 <h4>I'am Artem a Backend Developer.<br>I Spend most of my time coding outstanding projects.</h4>
 
+<div align="center">
+  <img width="1200" src="https://github.com/HaruhakuGIT/HaruhakuGIT/assets/firefly.mp4" />
+</div>
+
 ### What I currently Do
 
 - 🔭 I’m currently working on [MythicalWorld](https://mythicalworld.su)
