@@ -17,8 +17,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaruhakuGIT&show_icons=true&theme=holi" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaruhakuGIT&theme=holi&layout=compact&langs_count=5&order=2" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaruhakuGIT&show_icons=true&theme=holi&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaruhakuGIT&theme=holi&layout=compact&langs_count=5&order=2&hide_border=true" height="150">
 </div>
 
 ###
